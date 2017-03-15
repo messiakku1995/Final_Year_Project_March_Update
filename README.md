@@ -4,6 +4,7 @@ This repository is made to contain the final year project code in the month of M
 The March project code update deadline is March 17, 2017.
 
 The code and files uploaded in this repository are the further updates and the new code for the website.
+
 About the Project:
 The project title is: E-commerce Shopping Site with SEO features.
 
