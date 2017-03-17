@@ -7,9 +7,13 @@ Steps covered till March:
 1. New User Registration process.
 2. Signing into the Website.
 3. Updating the Shopping Cart with products.
+4. Changing User Password.
+5. Viewing User Account.
+
 The code and files uploaded in this repository are the further updates and the new code for the website.
 
 About the Project:
+
 The project title is: E-commerce Shopping Site with SEO features.
 
 This is a team project of:
